@@ -4,24 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="36fcf4bf-cad6-404f-8ac7-a6c15f8ba71e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/NesneTabanlı.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hafta2/ders1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hafta2/ders2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hafta3-4/ders1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hafta3-4/ders2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hafta3-4/ders3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hafta3-4/ders4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hafta3-4/ders5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hafta5-6/ders1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hafta5-6/ders2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hafta5-6/ders3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hafta5-6/ders4.py" afterDir="false" />
+    <list default="true" id="36fcf4bf-cad6-404f-8ac7-a6c15f8ba71e" name="Changes" comment="saaaaa">
+      <change afterPath="$PROJECT_DIR$/Hafta3-4/deneme.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/quiz.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hafta2/ders1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Hafta2/ders1.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,11 +25,24 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;DuranGZR&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/DuranGZR/OOP.git&quot;,
+    &quot;accountId&quot;: &quot;5909fbfe-95f3-4b19-abe5-ddcc885e1b91&quot;
+  }
+}</component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/Hafta3-4/ders3.py" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/Hafta3-4/ders4.py" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/Hafta5-6/ders1.py" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/Hafta5-6/ders3.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/Hafta5-6/ders4.py" root0="SKIP_INSPECTION" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 7
@@ -57,18 +57,23 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.deneme.executor": "Run",
     "Python.ders.executor": "Run",
     "Python.ders1.executor": "Run",
+    "Python.ders2.executor": "Run",
     "Python.ders5.executor": "Run",
     "Python.kalp.executor": "Run",
     "Python.kalp2.executor": "Run",
+    "Python.quiz.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -94,18 +99,36 @@
       <workItem from="1729693592851" duration="30000" />
       <workItem from="1730710854281" duration="472000" />
       <workItem from="1730802797195" duration="131000" />
-      <workItem from="1731260429189" duration="612000" />
+      <workItem from="1731260429189" duration="1652000" />
+      <workItem from="1731270943494" duration="5684000" />
+      <workItem from="1731313786253" duration="3978000" />
     </task>
+    <task id="LOCAL-00001" summary="saaaaa">
+      <option name="closed" value="true" />
+      <created>1731261273046</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1731261273046</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="saaaaa" />
+    <option name="LAST_COMMIT_MESSAGE" value="saaaaa" />
+  </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/NesneTabanl$deneme.coverage" NAME="deneme Coverage Results" MODIFIED="1731273872929" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Hafta3-4" />
     <SUITE FILE_PATH="coverage/NesneTabanl$ders.coverage" NAME="ders Coverage Results" MODIFIED="1729524023896" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Hafta2" />
+    <SUITE FILE_PATH="coverage/NesneTabanl$quiz.coverage" NAME="quiz Coverage Results" MODIFIED="1731317054674" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/NesneTabanl$ders2.coverage" NAME="ders2 Coverage Results" MODIFIED="1731276347648" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Hafta5-6" />
     <SUITE FILE_PATH="coverage/NesneTabanl$kalp2.coverage" NAME="kalp2 Coverage Results" MODIFIED="1730710989929" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/NesneTabanl$kalp.coverage" NAME="kalp Coverage Results" MODIFIED="1730710921623" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/NesneTabanl$ders1.coverage" NAME="ders1 Coverage Results" MODIFIED="1731260715037" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Hafta3-4" />
+    <SUITE FILE_PATH="coverage/NesneTabanl$ders1.coverage" NAME="ders1 Coverage Results" MODIFIED="1731277201308" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Hafta7-8" />
     <SUITE FILE_PATH="coverage/NesneTabanl$ders5.coverage" NAME="ders5 Coverage Results" MODIFIED="1731260917605" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Hafta3-4" />
   </component>
 </project>

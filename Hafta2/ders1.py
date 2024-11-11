@@ -25,7 +25,7 @@ for a in nums:
 # %%
 def bolme(sayi1, sayi2):
     return (sayi1 / sayi2)
-print(bolme(1113,1))
+print(bolme(1113,0))
 # %%
 def bolme2(sayi1, sayi2):
     try:
@@ -33,5 +33,5 @@ def bolme2(sayi1, sayi2):
     except ZeroDivisionError:
         return None
 
-print(bolme2(1113,0))
-# %%
+print(bolme2(1113,3))
+
