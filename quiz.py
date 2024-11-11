@@ -111,6 +111,38 @@ p1.mesafe(p2)
 
 # %%
 
+#  Aşağıda belirtilenler ışığında gerekli kodlamayı yapınız.
+#•	name ve age attribute ları olan bir person sınıfı tanımlayınız
+#•	person sınıfı kullanılarak oluşturulan objenin name ve age bilgilerini ekrana yazan display adında bir metot yazınız
+#•	person sınıfı attribute larına ilaveten section bilgisini içeren bir student sınıfı tanımlayınız (person dan türeyen)
+#•	student sınıfı aracılığı ile oluşturulan objenin name, age ve section bilgilerini ekrana yazan display_student adında bir metot yazınız
+
+
+class person:
+    def __init__(self,name,age):
+        self.name = name
+        self.age = age
+
+    def display(self):
+        print(f"Name : {self.name}, Age : {self.age}")
+
+
+class student(person):
+    def __init__(self,name,age,section):
+        person.__init__(self,name,age)
+        self.section = section
+
+    def display_student(self):
+        print(f"Name : {self.name}, Age : {self.age}, Section : {self.section}")
+
+
+kişi1 = person("duran",20)
+kişi2 = student("sıla",18,"Math")
+
+kişi1.display()
+kişi2.display_student()
+
+
 
 
 
