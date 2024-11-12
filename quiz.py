@@ -149,3 +149,5 @@ kişi2.display_student()
 
 
 
+
+
