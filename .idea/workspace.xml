@@ -4,10 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="36fcf4bf-cad6-404f-8ac7-a6c15f8ba71e" name="Changes" comment="saaaaaas">
-      <change afterPath="$PROJECT_DIR$/EtkinlikKatılımTakipOtomasyonu.py" afterDir="false" />
+    <list default="true" id="36fcf4bf-cad6-404f-8ac7-a6c15f8ba71e" name="Changes" comment="saaaaaasg">
+      <change afterPath="$PROJECT_DIR$/deneme.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/NesneTabanlı.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/NesneTabanlı.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/quiz.py" beforeDir="false" afterPath="$PROJECT_DIR$/quiz.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EtkinlikKatılımTakipOtomasyonu.py" beforeDir="false" afterPath="$PROJECT_DIR$/EtkinlikKatılımTakipOtomasyonu.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,6 +39,7 @@
   }
 }</component>
   <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/EtkinlikKatılımTakipOtomasyonu.py" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/Hafta3-4/ders3.py" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/Hafta3-4/ders4.py" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/Hafta5-6/ders1.py" root0="SKIP_INSPECTION" />
@@ -54,34 +57,34 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.EtkinlikKatılımTakipOtomasyonu.executor": "Run",
-    "Python.deneme.executor": "Run",
-    "Python.ders.executor": "Run",
-    "Python.ders1.executor": "Run",
-    "Python.ders2.executor": "Run",
-    "Python.ders5.executor": "Run",
-    "Python.kalp.executor": "Run",
-    "Python.kalp2.executor": "Run",
-    "Python.quiz.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
-    "ignore.virus.scanning.warn.message": "true",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.EtkinlikKatılımTakipOtomasyonu.executor&quot;: &quot;Run&quot;,
+    &quot;Python.deneme.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ders.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ders1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ders2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ders5.executor&quot;: &quot;Run&quot;,
+    &quot;Python.kalp.executor&quot;: &quot;Run&quot;,
+    &quot;Python.kalp2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.quiz.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-js-predefined-d6986cc7102b-5c90d61e3bab-JavaScript-PY-242.22855.92" />
-        <option value="bundled-python-sdk-b068d85d1acf-399fe30bd8c1-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-242.22855.92" />
+        <option value="bundled-js-predefined-d6986cc7102b-5c90d61e3bab-JavaScript-PY-242.23726.102" />
+        <option value="bundled-python-sdk-5e1850174b45-399fe30bd8c1-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-242.23726.102" />
       </set>
     </attachedChunks>
   </component>
@@ -103,7 +106,11 @@
       <workItem from="1731270943494" duration="5684000" />
       <workItem from="1731313786253" duration="3978000" />
       <workItem from="1731318264246" duration="3219000" />
-      <workItem from="1731399931135" duration="1217000" />
+      <workItem from="1731399931135" duration="4077000" />
+      <workItem from="1731405085989" duration="284000" />
+      <workItem from="1731694593833" duration="42000" />
+      <workItem from="1731695157559" duration="493000" />
+      <workItem from="1731828080735" duration="3877000" />
     </task>
     <task id="LOCAL-00001" summary="saaaaa">
       <option name="closed" value="true" />
@@ -129,7 +136,15 @@
       <option name="project" value="LOCAL" />
       <updated>1731323932012</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="saaaaaasg">
+      <option name="closed" value="true" />
+      <created>1731401191897</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1731401191897</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -138,24 +153,14 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="saaaaa" />
     <MESSAGE value="saaaaaas" />
-    <option name="LAST_COMMIT_MESSAGE" value="saaaaaas" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/EtkinlikKatılımTakipOtomasyonu.py</url>
-          <line>152</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
+    <MESSAGE value="saaaaaasg" />
+    <option name="LAST_COMMIT_MESSAGE" value="saaaaaasg" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/NesneTabanl$deneme.coverage" NAME="deneme Coverage Results" MODIFIED="1731273872929" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Hafta3-4" />
     <SUITE FILE_PATH="coverage/NesneTabanl$ders.coverage" NAME="ders Coverage Results" MODIFIED="1729524023896" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Hafta2" />
     <SUITE FILE_PATH="coverage/NesneTabanl$quiz.coverage" NAME="quiz Coverage Results" MODIFIED="1731317054674" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/NesneTabanl$EtkinlikKatlmTakipOtomasyonu.coverage" NAME="EtkinlikKatılımTakipOtomasyonu Coverage Results" MODIFIED="1731400969566" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/NesneTabanl$EtkinlikKatlmTakipOtomasyonu.coverage" NAME="EtkinlikKatılımTakipOtomasyonu Coverage Results" MODIFIED="1731830947700" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/NesneTabanl$ders2.coverage" NAME="ders2 Coverage Results" MODIFIED="1731276347648" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Hafta5-6" />
     <SUITE FILE_PATH="coverage/NesneTabanl$kalp2.coverage" NAME="kalp2 Coverage Results" MODIFIED="1730710989929" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/NesneTabanl$kalp.coverage" NAME="kalp Coverage Results" MODIFIED="1730710921623" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
