@@ -5,11 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="36fcf4bf-cad6-404f-8ac7-a6c15f8ba71e" name="Changes" comment="saaaaaasg">
-      <change afterPath="$PROJECT_DIR$/deneme.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/NesneTabanlı.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/NesneTabanlı.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GeliştirilmişEtkinlikKatılımTakipOtomasyonu.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/EtkinlikKatılımTakipOtomasyonu.py" beforeDir="false" afterPath="$PROJECT_DIR$/EtkinlikKatılımTakipOtomasyonu.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/deneme.py" beforeDir="false" afterPath="$PROJECT_DIR$/deneme.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,29 +55,60 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python.EtkinlikKatılımTakipOtomasyonu.executor&quot;: &quot;Run&quot;,
-    &quot;Python.deneme.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ders.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ders1.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ders2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ders5.executor&quot;: &quot;Run&quot;,
-    &quot;Python.kalp.executor&quot;: &quot;Run&quot;,
-    &quot;Python.kalp2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.quiz.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.EtkinlikKatılımTakipOtomasyonu.executor": "Run",
+    "Python.deneme.executor": "Run",
+    "Python.deneme2.executor": "Run",
+    "Python.ders.executor": "Run",
+    "Python.ders1.executor": "Run",
+    "Python.ders2.executor": "Run",
+    "Python.ders5.executor": "Run",
+    "Python.kalp.executor": "Run",
+    "Python.kalp2.executor": "Run",
+    "Python.quiz.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
+  <component name="RunManager">
+    <configuration name="GeliştirilmişEtkinlikKatılımTakipOtomasyonu" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="NesneTabanlı" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\duran\PycharmProjects\NesneTabanlı\GeliştirilmişEtkinlikKatılımTakipOtomasyonu.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.GeliştirilmişEtkinlikKatılımTakipOtomasyonu" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -110,7 +139,10 @@
       <workItem from="1731405085989" duration="284000" />
       <workItem from="1731694593833" duration="42000" />
       <workItem from="1731695157559" duration="493000" />
-      <workItem from="1731828080735" duration="3877000" />
+      <workItem from="1731828080735" duration="4534000" />
+      <workItem from="1731837917862" duration="468000" />
+      <workItem from="1731861207750" duration="2030000" />
+      <workItem from="1731867112537" duration="2105000" />
     </task>
     <task id="LOCAL-00001" summary="saaaaa">
       <option name="closed" value="true" />
@@ -144,7 +176,15 @@
       <option name="project" value="LOCAL" />
       <updated>1731401191897</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="saaaaaasg">
+      <option name="closed" value="true" />
+      <created>1731833901996</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1731833901996</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -157,8 +197,9 @@
     <option name="LAST_COMMIT_MESSAGE" value="saaaaaasg" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/NesneTabanl$deneme.coverage" NAME="deneme Coverage Results" MODIFIED="1731273872929" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Hafta3-4" />
+    <SUITE FILE_PATH="coverage/NesneTabanl$deneme.coverage" NAME="deneme Coverage Results" MODIFIED="1731865304251" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/NesneTabanl$ders.coverage" NAME="ders Coverage Results" MODIFIED="1729524023896" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Hafta2" />
+    <SUITE FILE_PATH="coverage/NesneTabanl$deneme2.coverage" NAME="deneme2 Coverage Results" MODIFIED="1731869128736" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/NesneTabanl$quiz.coverage" NAME="quiz Coverage Results" MODIFIED="1731317054674" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/NesneTabanl$EtkinlikKatlmTakipOtomasyonu.coverage" NAME="EtkinlikKatılımTakipOtomasyonu Coverage Results" MODIFIED="1731830947700" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/NesneTabanl$ders2.coverage" NAME="ders2 Coverage Results" MODIFIED="1731276347648" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Hafta5-6" />
